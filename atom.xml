@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://beta.5am.website/"/>
-  <updated>2019-08-14T14:22:07.454Z</updated>
+  <updated>2019-08-14T14:31:16.368Z</updated>
   <id>http://beta.5am.website/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://beta.5am.website/2019/08/14/welcome/"/>
     <id>http://beta.5am.website/2019/08/14/welcome/</id>
     <published>2019-08-14T04:00:00.000Z</published>
-    <updated>2019-08-14T14:22:07.454Z</updated>
+    <updated>2019-08-14T14:31:16.368Z</updated>
     
     <content type="html"><![CDATA[<p>诶</p><p>你为什么突然点进来了？</p><p>其实 我没有想好 这篇文章要写什么内容</p><p>要不……</p><p>你先退出去一下？</p><p>等我想好要写些什么……</p><p>再……看？</p><p>可以吗？</p><p>那么总而言之就是，5 A.M. 的新官网上线啦！</p>]]></content>
     
@@ -34,7 +34,7 @@
       <category term="web" scheme="http://beta.5am.website/categories/web/"/>
     
     
-      <category term="web" scheme="http://beta.5am.website/tags/web/"/>
+      <category term="网站" scheme="http://beta.5am.website/tags/%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
