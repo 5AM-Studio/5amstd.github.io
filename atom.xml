@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://beta.5am.website/"/>
-  <updated>2019-08-14T00:51:06.529Z</updated>
+  <updated>2019-08-14T00:54:57.363Z</updated>
   <id>http://beta.5am.website/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://beta.5am.website/2019/08/14/testing/"/>
     <id>http://beta.5am.website/2019/08/14/testing/</id>
     <published>2019-08-14T00:51:06.000Z</published>
-    <updated>2019-08-14T00:51:06.529Z</updated>
+    <updated>2019-08-14T00:54:57.363Z</updated>
     
     <summary type="html">
     
     </summary>
     
-      <category term="技术" scheme="http://beta.5am.website/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="测试" scheme="http://beta.5am.website/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
   </entry>
