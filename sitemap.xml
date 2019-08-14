@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://beta.5am.website/Songs-FAQ/index.html</loc>
+    
+    <lastmod>2019-08-14T14:35:33.420Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://beta.5am.website/2019/08/14/welcome/</loc>
     
     <lastmod>2019-08-14T14:31:16.368Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://beta.5am.website/comment/index.html</loc>
     
     <lastmod>2019-08-14T10:33:23.940Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://beta.5am.website/Songs-FAQ/index.html</loc>
-    
-    <lastmod>2019-08-14T09:37:30.293Z</lastmod>
     
   </url>
   
