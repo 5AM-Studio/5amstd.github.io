@@ -44,7 +44,7 @@
   </url>
   
   <url>
-    <loc>http://beta.5am.website/video/index.html</loc>
+    <loc>http://beta.5am.website/links/index.html</loc>
     
     <lastmod>2019-08-13T12:48:22.000Z</lastmod>
     
@@ -65,28 +65,14 @@
   </url>
   
   <url>
+    <loc>http://beta.5am.website/lab/index.html</loc>
+    
+    <lastmod>2019-08-13T12:48:22.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://beta.5am.website/donate/index.html</loc>
-    
-    <lastmod>2019-08-13T12:48:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://beta.5am.website/links/index.html</loc>
-    
-    <lastmod>2019-08-13T12:48:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://beta.5am.website/rss/index.html</loc>
-    
-    <lastmod>2019-08-13T12:48:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://beta.5am.website/tags/index.html</loc>
     
     <lastmod>2019-08-13T12:48:22.000Z</lastmod>
     
@@ -100,6 +86,20 @@
   </url>
   
   <url>
+    <loc>http://beta.5am.website/tags/index.html</loc>
+    
+    <lastmod>2019-08-13T12:48:22.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://beta.5am.website/rss/index.html</loc>
+    
+    <lastmod>2019-08-13T12:48:22.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://beta.5am.website/theme-sakura/index.html</loc>
     
     <lastmod>2019-08-13T12:48:22.000Z</lastmod>
@@ -107,7 +107,7 @@
   </url>
   
   <url>
-    <loc>http://beta.5am.website/lab/index.html</loc>
+    <loc>http://beta.5am.website/video/index.html</loc>
     
     <lastmod>2019-08-13T12:48:22.000Z</lastmod>
     
