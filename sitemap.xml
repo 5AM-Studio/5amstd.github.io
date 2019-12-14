@@ -4,42 +4,49 @@
   <url>
     <loc>http://beta.5am.website/about/index.html</loc>
     
-    <lastmod>2019-08-16T05:46:29.635Z</lastmod>
+    <lastmod>2019-08-16T05:46:29.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://beta.5am.website/2019/08/14/welcome/</loc>
     
-    <lastmod>2019-08-16T05:43:51.114Z</lastmod>
+    <lastmod>2019-08-16T05:43:51.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://beta.5am.website/Songs-FAQ/index.html</loc>
     
-    <lastmod>2019-08-14T14:36:52.476Z</lastmod>
+    <lastmod>2019-08-14T14:36:52.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://beta.5am.website/avatar-change/index.html</loc>
     
-    <lastmod>2019-08-14T10:41:15.873Z</lastmod>
+    <lastmod>2019-08-14T10:41:15.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://beta.5am.website/comment/index.html</loc>
     
-    <lastmod>2019-08-14T10:33:23.940Z</lastmod>
+    <lastmod>2019-08-14T10:33:23.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://beta.5am.website/Songs/index.html</loc>
     
-    <lastmod>2019-08-14T09:36:15.431Z</lastmod>
+    <lastmod>2019-08-14T09:36:15.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://beta.5am.website/bangumi/index.html</loc>
+    
+    <lastmod>2019-08-13T12:48:22.000Z</lastmod>
     
   </url>
   
@@ -58,21 +65,7 @@
   </url>
   
   <url>
-    <loc>http://beta.5am.website/bangumi/index.html</loc>
-    
-    <lastmod>2019-08-13T12:48:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://beta.5am.website/lab/index.html</loc>
-    
-    <lastmod>2019-08-13T12:48:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://beta.5am.website/links/index.html</loc>
+    <loc>http://beta.5am.website/donate/index.html</loc>
     
     <lastmod>2019-08-13T12:48:22.000Z</lastmod>
     
@@ -86,6 +79,13 @@
   </url>
   
   <url>
+    <loc>http://beta.5am.website/rss/index.html</loc>
+    
+    <lastmod>2019-08-13T12:48:22.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://beta.5am.website/tags/index.html</loc>
     
     <lastmod>2019-08-13T12:48:22.000Z</lastmod>
@@ -93,7 +93,7 @@
   </url>
   
   <url>
-    <loc>http://beta.5am.website/rss/index.html</loc>
+    <loc>http://beta.5am.website/links/index.html</loc>
     
     <lastmod>2019-08-13T12:48:22.000Z</lastmod>
     
@@ -107,7 +107,7 @@
   </url>
   
   <url>
-    <loc>http://beta.5am.website/donate/index.html</loc>
+    <loc>http://beta.5am.website/lab/index.html</loc>
     
     <lastmod>2019-08-13T12:48:22.000Z</lastmod>
     
